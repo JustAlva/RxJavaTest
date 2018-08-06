@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout  xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data >
+        <import type="com.zkd.rxjavatest.model.entity.FlowDataBean" />
+
+        <variable
+            name="flowDataBean"
+            type="FlowDataBean" />
+    </data>
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.constraint.ConstraintLayout>
+</layout>
